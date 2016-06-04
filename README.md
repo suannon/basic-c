@@ -3,9 +3,9 @@ This repository is the demostration and code references of C language.
 
 ##Simple 
 
-Hello World - 
+Hello World - [View code](basic/helloworld.c)
 
-Basic Variable -
+Basic Variable - 
 
 Input and Output - 
 
