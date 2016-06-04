@@ -1,4 +1,2 @@
 # Basic C language  
-
-Repository นี้สำหรับเป็นตัวอย่างโค้ดภาษา C สำหรับศึกษา Syntax และแนวคิดของการเขียนโปรแกรมอย่างง่าย
-
+This repository is the demostration and code references of C language.
