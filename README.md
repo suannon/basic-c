@@ -4,6 +4,8 @@ This repository is the demostration and code references of C language.
 ##Simple 
 
 Hello World - [View code](Simple/helloworld.c)
+----------
+เป็นโปรแกรมที่ทุกคนต้องเริ่มต้นเขียน โดยการสั่งให้คอมพิวเตอร์แสดงคำว่า Hello World! ออกมาให้ได้ ซึ่งเป็นพื้นฐานที่สุดของการศึกษาการเขียนโปรแกรมวิธีการคือ เขียน function printf() แล้วใส่ argument เป็นคำที่เราต้องการให้มันแสดงเข้าไป 
 
 Basic Variable - [View code](Simple/var.c)
 
