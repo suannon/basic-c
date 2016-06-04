@@ -5,15 +5,15 @@ This repository is the demostration and code references of C language.
 
 Hello World - [View code](Simple/helloworld.c)
 
-Basic Variable - 
+Basic Variable - [View code](Simple/var.c)
 
-Input and Output - 
+Input and Output - [View code](Simple/io.c)
 
-If-else Condition - 
+If-else Condition - [View code](Simple/if.c)
 
-For loop - 
+For loop - [View code](Simple/for.c)
 
-While loop - 
+While loop - [View code](Simple/while.c)
 
-Recursive - 
+Recursive - [View code](Simple/recursive.c)
 
