@@ -9,19 +9,25 @@ Hello World - [View code](Simple/helloworld.c)
 
 Basic Variable - [View code](Simple/var.c)
 ----------
+ยังไม่มีคำอธิบาย
 
 Input and Output - [View code](Simple/io.c)
 ----------
+ยังไม่มีคำอธิบาย
 
 If-else Condition - [View code](Simple/if.c)
 ----------
+ยังไม่มีคำอธิบาย
 
 For loop - [View code](Simple/for.c)
 ----------
+ยังไม่มีคำอธิบาย
 
 While loop - [View code](Simple/while.c)
 ----------
+ยังไม่มีคำอธิบาย
 
 Recursive - [View code](Simple/recursive.c)
 ----------
+ยังไม่มีคำอธิบาย
 
