@@ -1,0 +1,10 @@
+#include<stdio.h>
+#include<stdlib.h>
+main()
+{
+    while(1)
+    {
+        printf("\a");
+    }
+    system("pause");
+}
