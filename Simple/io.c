@@ -6,4 +6,5 @@ main ()
   printf("Input your number. : ");
   sacnf("%d",%x");
   printf("Your number is %d.",x);
+  system("pause");
 }
